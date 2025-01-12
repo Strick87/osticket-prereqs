@@ -30,11 +30,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
-<p>
-<img src="https:///[![image](https://github.com](https://i.imgur.com/ecgIA8W.png)/user-attachments/assets/06425ea6-4458-4a11-9777-1214ec681769)
-s/assets/3f3d0271-0061-4d67-8352-0a9488a8c9e3)
-er-attachments/assets/529d5bd0-91de-44b9-a9bf-2947139accc3)
-" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/user-attachments/assets/3478f492-d3ea-4252-913b-1c024cb6da2e)
+
+This screenshot demonstrates the process of setting up a virtual machine (VM) in Microsoft Azure. I am configuring a VM with Windows 10 as the operating system. The steps include selecting the subscription type, creating or choosing a resource group, naming the virtual machine, selecting a region, and configuring availability options. This process is essential for deploying virtual environments for development or testing purposes, showcasing my familiarity with cloud-based infrastructure and Azure services.
+
+
+
+[![image](https://github.com](https://i.imgur.com/ecgIA8W.png)/user-attachments/assets/06425ea6-4458-4a11-9777-1214ec681769)
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
