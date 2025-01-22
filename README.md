@@ -36,7 +36,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 
-Prerequisite 1: Create a Virtual MachineThis screenshot demonstrates the process of setting up a virtual machine (VM) in Microsoft Azure. I am configuring a VM with Windows 10 as the operating system. The steps include selecting the subscription type, creating or choosing a resource group, naming the virtual machine, selecting a region, and configuring availability options. This process is essential for deploying virtual environments for development or testing purposes, showcasing my familiarity with cloud-based infrastructure and Azure services.
+Prerequisite 1: This screenshot demonstrates the process of setting up a virtual machine (VM) in Microsoft Azure. I am configuring a VM with Windows 10 as the operating system. The steps include selecting the subscription type, creating or choosing a resource group, naming the virtual machine, selecting a region, and configuring availability options. This process is essential for deploying virtual environments for development or testing purposes, showcasing my familiarity with cloud-based infrastructure and Azure services.
 
 
 
